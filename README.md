@@ -13,8 +13,44 @@ generatePic.py
 ![image](https://github.com/danjia/MagicPicture/tree/master/ScreenShots/target_pic.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 生成的图片(因为太大,所以就截了下图而已):
+
 ![image](https://github.com/danjia/MagicPicture/tree/master/ScreenShots/generate_pic.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 放大细节:
